@@ -1,0 +1,67 @@
+*{
+	
+}
+
+body{
+	border: 10px whitesmoke solid;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url("images/bg.png");
+}
+
+.all{
+	background: whitesmoke;
+}
+.first{
+	background: #A8F0F0;
+
+}
+
+.first h1{
+	float: right;
+	text-align: right;
+	width: 100%;
+}
+
+.first h2{
+	 background: #A8F0F0;
+	 float: right;
+	text-align: right;
+	width: 100%;
+}
+
+.third{
+	background: whitesmoke;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 0px;
+	overflow: auto;
+}
+.image{
+	float: right;
+}
+.fourth{
+	border: 4px #C2E9E9 solid;
+	background: #B8C7FF;
+	overflow: auto;
+}
+
+.fifth{
+	border: 4px #C2E9E9 solid;
+	margin-top: 10px;
+	background: #B8C7FF;
+	overflow: auto;
+}
+.friends{
+	float: left;
+	width: 25%;
+	background: #A8F0F0;
+	margin-top: 5px;
+	margin-right: 5px;
+	border: 5px black solid;
+
+}
+
+.time{
+	border-bottom: 2px blue dashed;
+}
